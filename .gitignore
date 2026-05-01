@@ -30,3 +30,7 @@ Homestead.json
 auth.json
 
 .idea
+.db
+.log
+target
+bin
